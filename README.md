@@ -39,8 +39,10 @@ mail/postfix -- SMTP mail relay
 mail/rspamd -- Protect your network from spam
 misc/theme-cicada -- The cicada theme - grey/orange
 misc/theme-rebellion -- A suitably dark theme
+misc/theme-tukan -- The tukan theme - blue/white
 net-mgmt/collectd -- Collect system and application performance metrics periodically
 net-mgmt/lldpd -- LLDP allows you to know exactly on which port is a server
+net-mgmt/net-snmp -- Net-SNMP is a daemon for the SNMP protocol
 net-mgmt/snmp -- SNMP Server via bsnmpd
 net-mgmt/telegraf -- Agent for collecting metrics and data
 net-mgmt/zabbix-agent -- Enterprise-class open source distributed monitoring agent
@@ -79,6 +81,7 @@ sysutils/smart -- SMART tools
 sysutils/vmware -- VMware tools
 sysutils/xen -- Xen guest utilities
 www/c-icap -- c-icap connects the web proxy with a virus scanner
+www/cache -- Webserver cache
 www/web-proxy-sso -- Kerberos authentication module
 www/web-proxy-useracl -- Group and user ACL for the web proxy
 ```
